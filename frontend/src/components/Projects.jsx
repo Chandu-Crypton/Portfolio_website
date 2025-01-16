@@ -51,7 +51,7 @@ const Projects = () => {
                   onClick={() =>
                     window.open(project.link, "_blank", "noopener,noreferrer")
                   }
-                  className="text-sm md:text-base text-white bg-primary hover:bg-secondary px-4 py-2 rounded transition-colors"
+                  className="text-sm md:text-base text-red bg-pink-500 hover:underline px-4 py-2 rounded transition-colors"
                 >
                   View Project
                 </button>
