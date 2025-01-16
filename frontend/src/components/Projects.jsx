@@ -11,7 +11,7 @@ const projects = [
     title: "Task Manager Application",
     description:
       "1. Designed a responsive Task Manager Application for showcasing proficiency in front-end development. 2. Features - Task details including title, description, priority, due date and options to edit or delete tasks. 3. Technologies used: HTML, JavaScript, CSS, React Toolkit.",
-    link: "https://github.com/your-repo/project-two",
+    link: "https://github.com/Chandu-Crypton/Task_Manager",
   },
   {
     title: "Restaurant Website",
